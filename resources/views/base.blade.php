@@ -10,8 +10,8 @@
     <meta charset="utf-8">
 
     <!-- Styles and Fonts -->
-    <link rel="stylesheet" href="{{ versioned_asset('css/styles.css') }}">
-    <link rel="stylesheet" media="print" href="{{ versioned_asset('css/print-styles.css') }}">
+    <link rel="stylesheet" href="{{ baseUrl('css/styles.css') }}">
+    <link rel="stylesheet" media="print" href="{{ baseUrl('css/print-styles.css') }}">
     <link rel="stylesheet" href="{{ baseUrl('/libs/material-design-iconic-font/css/material-design-iconic-font.min.css') }}">
 
     <!-- Scripts -->
@@ -83,7 +83,7 @@
         </div>
     </div>
 @yield('bottom')
-<script src="{{ versioned_asset('js/common.js') }}"></script>
+<script src="{{ baseUrl('js/common.js') }}"></script>
 @yield('scripts')
 </body>
 </html>

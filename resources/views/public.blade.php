@@ -11,7 +11,7 @@
 
     <!-- Styles and Fonts -->
     <link rel="stylesheet" href="{{ baseurl("css/styles.css") }}">
-    <link rel="stylesheet" href="{{ baseurl("css/print-styles.css") }}">
+    <link rel="stylesheet" media="print" href="{{ baseurl("css/print-styles.css") }}">
     <link rel="stylesheet" href="{{ baseUrl("/libs/material-design-iconic-font/css/material-design-iconic-font.min.css") }}">
 
     <!-- Scripts -->
