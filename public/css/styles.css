@@ -3647,10 +3647,11 @@ form.search-box {
 }
 
 form.search-box input {
-    background-color: transparent;
+    background-color: #324B65;
     border-radius: 4px;
     border: 2px solid #EEE;
-    color: #EEE;
+    color: #fff;
+    font-weight: bold;
     padding-left: 16px;
     padding-right: 24px;
     outline: 0
