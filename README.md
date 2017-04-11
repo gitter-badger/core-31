@@ -1,4 +1,6 @@
 # core
+
+[![Join the chat at https://gitter.im/doctub/core](https://badges.gitter.im/doctub/core.svg)](https://gitter.im/doctub/core?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Open Source Code of DocTub Platform!
 [![license](https://img.shields.io/github/license/doctub/core.svg?maxAge=2592000)](https://github.com/doctub/core/blob/master/LICENSE)
 
